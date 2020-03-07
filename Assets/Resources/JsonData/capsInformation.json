@@ -1,0 +1,69 @@
+﻿[
+  {
+    "dataType": "Cap"
+  },
+  {
+    "Type": [
+      {
+        "Id": 0,
+        "Name": "cap",
+        "Num": 1,
+        "Path": "Items/cap/cap_0"
+      },
+      {
+        "Id": 1,
+        "Name": "cap",
+        "Num": 3,
+        "Path": "Items/cap/cap_1"
+      },
+      {
+        "Id": 2,
+        "Name": "cap",
+        "Num": 1,
+        "Path": "Items/cap/cap_2"
+      },
+      {
+        "Id": 3,
+        "Name": "cap",
+        "Num": 6,
+        "Path": "Items/cap/cap_3"
+      },
+      {
+        "Id": 4,
+        "Name": "cap",
+        "Num": 9,
+        "Path": "Items/cap/cap_4"
+      },
+      {
+        "Id": 5,
+        "Name": "cap",
+        "Num": 7,
+        "Path": "Items/cap/cap_5"
+      },
+      {
+        "Id": 6,
+        "Name": "cap",
+        "Num": 4,
+        "Path": "Items/cap/cap_6"
+      },
+      {
+        "Id": 7,
+        "Name": "cap",
+        "Num": 2,
+        "Path": "Items/cap/cap_7"
+      },
+      {
+        "Id": 8,
+        "Name": "cap",
+        "Num": 3,
+        "Path": "Items/cap/cap_8"
+      },
+      {
+        "Id": 9,
+        "Name": "cap",
+        "Num": 1,
+        "Path": "Items/cap/cap_9"
+      }
+    ]
+  }
+]

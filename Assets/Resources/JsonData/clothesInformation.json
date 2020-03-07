@@ -1,0 +1,27 @@
+﻿[
+  {
+    "dataType": "Clothes"
+  },
+  {
+    "Type": [
+      {
+        "Id": 10,
+        "Name": "clothes",
+        "Num": 1,
+        "Path": "Items/clothes/clothes_0"
+      },
+      {
+        "Id": 11,
+        "Name": "clothes",
+        "Num": 4,
+        "Path": "Items/clothes/clothes_1"
+      },
+      {
+        "Id": 12,
+        "Name": "clothes",
+        "Num": 3,
+        "Path": "Items/clothes/clothes_2"
+      }
+    ]
+  }
+]
